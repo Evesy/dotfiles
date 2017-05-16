@@ -7,7 +7,7 @@ export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="mh"
 
 # Zsh plugins
-plugins=(git sublime aws osx redis-cli httpie ruby rvm svn vagrant gem)
+plugins=(git sublime aws osx redis-cli httpie ruby rvm svn vagrant gem kitchen)
 
 source $ZSH/oh-my-zsh.sh
 
