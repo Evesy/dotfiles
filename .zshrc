@@ -26,6 +26,11 @@ source ~/.oh-my-zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 export PATH=$PATH:$HOME/.chefdk/gem/ruby/2.3.0/bin
 export EDITOR='vim'
 
+export GOPATH=$HOME/go
+export GOROOT=/usr/local/opt/go/libexec
+export PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOROOT/bin
+
 # Cloudstack environment variables
 source ~/.cloudstack.env
 
