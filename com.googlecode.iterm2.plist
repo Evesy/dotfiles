@@ -482,15 +482,15 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame SessionsPreferences</key>
-	<string>-696 380 606 456 -1440 180 1440 877 </string>
+	<string>1172 286 606 456 0 0 1920 1057 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>437 339 796 473 0 0 1440 877 </string>
+	<string>436 476 918 381 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>153 98 1060 622 0 0 1440 877 </string>
+	<string>0 219 1060 643 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>145 376 1060 622 0 0 1920 1057 </string>
+	<string>144 435 1060 622 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>280 435 1075 622 0 0 1920 1057 </string>
+	<string>462 259 1060 622 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
 	<string>218 255 1060 622 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
@@ -1153,6 +1153,8 @@
 	</array>
 	<key>PMPrintingExpandedStateForPrint2</key>
 	<false/>
+	<key>PasteTabToStringTabStopSize</key>
+	<integer>4</integer>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -1204,7 +1206,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-05-25T17:36:22Z</date>
+	<date>2017-06-02T13:53:56Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>TabStyle</key>

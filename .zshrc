@@ -31,6 +31,9 @@ export GOROOT=/usr/local/opt/go/libexec
 export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:$GOROOT/bin
 
+# Scalr environment variables
+source ~/.scalr.env
+
 # Cloudstack environment variables
 source ~/.cloudstack.env
 
