@@ -484,15 +484,15 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>1172 286 606 456 0 0 1920 1057 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>436 476 918 381 0 0 1440 877 </string>
+	<string>761 515 937 512 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 219 1060 643 0 0 1440 877 </string>
+	<string>351 255 1060 622 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>144 435 1060 622 0 0 1920 1057 </string>
+	<string>265 221 1060 643 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
-	<string>462 259 1060 622 0 0 1920 1057 </string>
+	<string>254 138 1060 643 0 0 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 3</key>
-	<string>218 255 1060 622 0 0 1440 877 </string>
+	<string>2144 359 1060 622 1920 180 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 4</key>
 	<string>260 255 1060 622 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 5</key>
@@ -1103,7 +1103,7 @@
 			<key>Shortcut</key>
 			<string></string>
 			<key>Silence Bell</key>
-			<false/>
+			<true/>
 			<key>Sync Title</key>
 			<false/>
 			<key>Tags</key>
@@ -1206,7 +1206,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-06-02T13:53:56Z</date>
+	<date>2017-06-23T07:52:30Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>TabStyle</key>
